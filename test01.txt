@@ -1,0 +1,4 @@
+This is a file to test.
+ver 1.0
+the end of the file.
+------------------------ 22.09.29. 12:58
